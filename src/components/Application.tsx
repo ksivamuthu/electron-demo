@@ -1,11 +1,8 @@
 import * as React from 'react';
 
-import CounterContainer from '../containers/CounterContainer';
-
 const Application = () => (
     <div>
-        Hello World from Electron!
-        <CounterContainer />
+        <h1>Hello World from Electron!</h1>
     </div>
 );
 
